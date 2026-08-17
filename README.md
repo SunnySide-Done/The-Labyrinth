@@ -2,7 +2,7 @@
 
 ## Members
 
-- Jie Yu 
+- Jie Yu
 - Member 2
 - Member 3
 - Member 4
