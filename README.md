@@ -2,10 +2,11 @@
 
 ## Members
 
+
+- Jie Yu
 - Amber
-- Member 2
 - Member 3
-- Member 4
+- Yvetta
 
 # This is a J1 Summary Project
 - It is a simple MUD game about ...
