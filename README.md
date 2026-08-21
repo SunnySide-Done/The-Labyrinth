@@ -5,7 +5,7 @@
 
 - Jie Yu
 - Amber
-- Member 3
+- Smrithi
 - Yvetta
 
 # This is a J1 Summary Project
