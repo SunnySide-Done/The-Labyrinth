@@ -2,8 +2,9 @@
 
 ## Members
 
-- Member 1
-- Member 2
+
+- Jie Yu
+- Amber
 - Member 3
 - Yvetta
 
