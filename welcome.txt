@@ -1,0 +1,20 @@
+============================================================
+                       NYJC Computer Labs
+============================================================
+ Exits:      ???
+ Items:      Phone
+ Creatures:  (none)
+------------------------------------------------------------
+You wake up from your computing lesson to find yourself left behind in the NYJC computer labs. Oh dear.
+You approach the doors to leave, however,as you look outside the windows on the door, you find yourself staring into a void.
+
+Panicked, but trying to keep yourself calm, you check your phone for the time. Your phone is dead. The flashing icon for low battery stares back at you. You look towards the floor of the computer lab, at the gray cover of the charging point. Let’s charge the phone first.
+
+You lift the cover. Instead of sockets and wires, you peer into a dark cave. From within you can hear a distant shriek. Before you can back away, a strange twang sounds from around you and the floor disappears.
+
+You fall.
+
+(press any key to continue)
+------------------------------------------------------------
+ > _
+

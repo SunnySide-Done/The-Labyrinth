@@ -1,0 +1,29 @@
+============================================================
+                  The Labyrinth (tutorial)
+============================================================
+You land on soft, warm soil that cushions your fall. You look up at the charging point, but it is nowhere to be seen. You stare up at stalactites.
+
+You turn your attention back to the cave. Moist warm air surrounds you, water dripping off the moss creeping along the stones. There are brown feathers littered across the floor.
+
+Three paths lay before you, but they are too dark to see into.
+
+You look at your hands – a red thread is tied around your ring finger.
+
+A piercing shriek reverberates from the left tunnel.
+
+Before you can run, a harpy charges towards you, flapping her large, bird-like wings towards you, blocking your path.
+
+You are trapped.
+
+HARPY   HP: 50/100
+YOU     HP: 100/100   Weapon: Fist
+
+ 
+ Exits:      None
+ Items:      Phone
+------------------------------------------------------------
+ What will you do?
+   1. Throw a punch at the Harpy with your fist.
+------------------------------------------------------------
+ > _
+
