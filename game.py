@@ -11,10 +11,7 @@ class Game:
     def __init__(self):
         # Set up game variables
         self.room_number = 0
-        #when a player class is created, move this to the player class.
-        self.life = 100
-        self.weapons = None
-        self.ambrosia = None
+        self.rooms = []
         pass
 
 
@@ -84,4 +81,8 @@ class Game:
         #Then, instantiates the room.
         #Ensures that certain rooms (ie, tutorial, boss) are FIXED the moment user reaches certain room number.
         pass
+<<<<<<< HEAD
 >>>>>>> origin/main
+=======
+    
+>>>>>>> origin/yvetta
