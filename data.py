@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 class Player:
     def __init__(self):
         
@@ -54,4 +55,6 @@ class rooms:
 
 def create_player():
     player = player()
+>>>>>>> origin/jieyu
+=======
 >>>>>>> origin/jieyu
