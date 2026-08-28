@@ -12,7 +12,8 @@ class player(entity):
         if self.health == 100:
             return
         elif self.health > 80:
-            
+            self.health == 100
+            return
         else:
             self.health += 20
         return
