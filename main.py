@@ -6,6 +6,9 @@ The main game loop.
 
 import game
 import data
+import enemy
+import entity
+import player
 
 
 if __name__ == "__main__":
