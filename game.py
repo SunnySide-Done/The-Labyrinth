@@ -1,4 +1,7 @@
 class Game:
+<<<<<<< HEAD
+    
+=======
 
     """
     The last few variables will be cleaned up after the room & player is settled
@@ -63,6 +66,10 @@ class Game:
 
     def status(self):
         # Return current game status
+<<<<<<< HEAD
+        pass
+>>>>>>> origin/Smrithi
+=======
         """
         Confirm what player/enemy/room classes actually contain before coding this.
         """
@@ -74,4 +81,8 @@ class Game:
         #Then, instantiates the room.
         #Ensures that certain rooms (ie, tutorial, boss) are FIXED the moment user reaches certain room number.
         pass
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
     
+>>>>>>> origin/yvetta
