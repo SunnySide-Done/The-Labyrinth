@@ -1,5 +1,5 @@
 import entity
 
-class minotaur(enetity):
+class minotaur(entity):
     def __init__(self):
         self.health = 200
