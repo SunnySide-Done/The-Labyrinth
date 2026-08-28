@@ -1,0 +1,27 @@
+============================================================
+MEDUSA'S SNAKES
+============================================================
+Vines cover the room, tangling and twisting into a knotted mess of a net, blocking the door before you. Or are they vines?
+A hissing snake slithers up to you, poising for an attack.
+ 
+ MEDUSA’S SNAKES   HP: 100/100
+ YOU           HP: 100/100   
+ Weapon: Sphinx’s Claws (SELECTED)
+ Inventory: Ambrosia (+20 HP)
+
+------------------------------------------------------------
+ What will you do?
+   1. Attack Medusa’s Snakes
+   2. Use Item 
+------------------------------------------------------------
+ > 1
+------------------------------------------------------------
+
+ You strike Medusa’s snakes for 10 damage. 
+ Medusa’s Snakes bite you for 5 damage.
+ 
+ MEDUSA’S SNAKES  HP:  90/100
+ YOU              HP: 95/100
+------------------------------------------------------------
+ > _
+
