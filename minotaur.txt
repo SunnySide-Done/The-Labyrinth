@@ -1,0 +1,38 @@
+============================================================
+ MINOTAUR (Opening)
+============================================================
+The passage opens into a vast stone chamber. Ancient pillars rise into the darkness, their surfaces scarred by countless battles. The walls seem to close in around you as a deep, rumbling growl echoes through the Labyrinth.
+
+Two horns emerge from the shadows.
+
+The Minotaur steps into the torchlight, gripping a massive axe in both hands. Its eyes lock onto you.
+
+There is nowhere left to run.
+
+ MINOTAUR   HP: 200/200
+ YOU           HP: 100/100   
+ Weapon: Sphinx’s Claws (SELECTED)
+ Inventory: Ambrosia (+20 HP)
+
+------------------------------------------------------------
+ What will you do?
+   1. Attack Minotaur
+   2. Use Item 
+------------------------------------------------------------
+
+> 1
+
+You strike the Minotaur for 10 damage.
+
+The Minotaur swings its axe and strikes you for 8 damage.
+
+MINOTAUR HP: 190/200
+YOU HP: 92/100
+
+> 2
+You eat the Ambrosia from your pocket.
+
+The Minotaur swings its axe and strikes you for 8 damage.
+
+MINOTAUR HP: 190/200
+YOU HP: 92/100
