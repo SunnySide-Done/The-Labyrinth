@@ -1,4 +1,5 @@
 import entity
+import random
 
 class minotaur(entity):
     def __init__(self):
@@ -9,7 +10,7 @@ class minotaur(entity):
         """drop bag of feathers when killed"""
         return "Bag of Feathers"
 
-    def attack(self) -> int:
+    def attack_damage(self) -> int:
         """return damage dealt"""
-        attack_damage = random.randrange(1, 11)
+        attack_damage = random.randrange(1, 21)
         return attack_damage

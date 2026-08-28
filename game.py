@@ -1,3 +1,7 @@
+import player
+import entity
+import enemy
+
 class Game:
 
     """
@@ -22,7 +26,7 @@ class Game:
 
     def add_player(self, player):
         #add the player
-        self.player = player
+        player = player()
         pass
 
     def is_gameover(self):
@@ -52,7 +56,8 @@ class Game:
         Refer to get options and basically this tells the user what they need
         aka: add life? weapon? something along those lines. 
         """
-        pass
+        chosen_action = input("Enter: ")
+        return chosen_action
 
     def execute(self, actions):
         # Perform the actions
